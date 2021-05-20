@@ -1,0 +1,6 @@
+echo request code: E7704
+Image request code: M6506 
+Image request code: G5721 
+GPS request code: P4864
+ACK result code: Q3168
+NACK result code: R8440
