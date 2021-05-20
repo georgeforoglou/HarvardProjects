@@ -1,4 +1,4 @@
-# OptimizationTechniques
+# Optimization Techniques
 
 This is a universuty project about optimization techniques with Matlab. The project was devided in 3 smaller ones. You can find all of them isnide the folders:
 
